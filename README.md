@@ -47,3 +47,7 @@ Filtering shows that outperform their genre averages.
 * Scatter Plots
 * Heatmaps
 * Tables with Conditional Formatting
+
+
+Dashboard Screenshot:
+
